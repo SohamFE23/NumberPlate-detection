@@ -1,0 +1,13 @@
+train: C:\Users\soham\finalproject\opposite\task3/train/images
+val: C:\Users\soham\finalproject\opposite\task3/valid/images
+test: C:\Users\soham\finalproject\opposite\task3\test/images
+
+nc: 1
+names: ['number_plate']
+
+roboflow:
+  workspace: accident-yolov
+  project: indian-number-plate-keeo5-o44yh
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/accident-yolov/indian-number-plate-keeo5-o44yh/dataset/1
