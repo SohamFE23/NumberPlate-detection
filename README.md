@@ -36,6 +36,8 @@ Environment
    
 bash
 git clone https://github.com/your-username/numberplate-detection-yolov8.git
+
+
 cd numberplate-detection-yolov8
 
 2. Install dependencies
